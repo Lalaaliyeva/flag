@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#goy{
+    width: 400px;
+    height:85px;
+    background-color: blue;
+}
+
+#qirmizi{
+     width: 400px;
+     height:85px;
+     background-color:red;
+     position: relative;
+}
+
+#yasil{
+     width: 400px;
+     height:85px;
+     background-color: green;
+}
+
+#ay{
+    display: inline-block;
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 110px;
+    width:70px;
+    height: 70px;
+    background-color: white;
+    border-radius: 70px;
+
+}
+
+#ay1{
+     display: inline-block;
+     position: absolute;
+     margin-top: 10px;
+     margin-left: 126px;
+      width:59px;
+      height: 62px;
+      background-color: red;
+      border-radius: 62px;
+
+}
+
+#ulduz{
+    display: inline-block;
+    position: absolute;
+    margin-top: 23px;
+    margin-left: 165px;
+    width: 35px;
+    height:35px;
+    background-color: white;
+}
+
+#ulduz1{
+    display: inline-block;
+    position: absolute;
+    margin-top: 23px;
+    margin-left: 165px;
+    width:35px;
+    height: 35px;
+    background-color: white;
+    transform: rotate(45deg);
+    
+}
